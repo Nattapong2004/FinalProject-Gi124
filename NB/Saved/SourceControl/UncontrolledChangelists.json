@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/nattapong1660706241/FinalProject-Gi124/NB/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/nattapong1660706241/FinalProject-Gi124/NB/Content/Sword/Sword_Base_Color_Mat.uasset",
+				"D:/nattapong1660706241/FinalProject-Gi124/NB/Content/Sword/Sword_Low_Done.uasset",
+				"D:/nattapong1660706241/FinalProject-Gi124/NB/Content/Sword/Sword_Low_Done_Skeleton.uasset",
+				"D:/nattapong1660706241/FinalProject-Gi124/NB/Content/Anim/Stable_Sword_Outward_Slash__1__Skeleton.uasset",
+				"D:/nattapong1660706241/FinalProject-Gi124/NB/Content/Anim/Sword_And_Shield_Walk.uasset",
+				"D:/nattapong1660706241/FinalProject-Gi124/NB/Content/Anim/BS_Paladin.uasset",
+				"D:/nattapong1660706241/FinalProject-Gi124/NB/Content/ThirdPerson/Blueprints/SwordEvent.uasset",
+				"D:/nattapong1660706241/FinalProject-Gi124/NB/Content/Anim/Stable_Sword_Outward_Slash__1__Anim.uasset",
+				"D:/nattapong1660706241/FinalProject-Gi124/NB/Content/Anim/Sword_And_Shield_Death_Montage.uasset",
+				"D:/nattapong1660706241/FinalProject-Gi124/NB/Content/ThirdPerson/Blueprints/AI.uasset",
+				"D:/nattapong1660706241/FinalProject-Gi124/NB/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/TL/5GYK6PD77DZGNVW7P08DN1.uasset",
+				"D:/nattapong1660706241/FinalProject-Gi124/NB/Content/ThirdPerson/Blueprints/BP_Blackstab.uasset",
+				"D:/nattapong1660706241/FinalProject-Gi124/NB/Content/Sword/BS_Vanguard.uasset",
+				"D:/nattapong1660706241/FinalProject-Gi124/NB/Content/Sword/BS_Paladin.uasset",
+				"D:/nattapong1660706241/FinalProject-Gi124/NB/Content/Sword/ABP_Paladin.uasset"
+			]
+		}
+	]
+}
